@@ -1,8 +1,8 @@
-# NTLR V5 Pipeline
+# NTLR Pipeline
 
 ## Overview
 
-NTLR V5 is a production-grade, fault-tolerant, batch-based Google Earth Engine + Google Drive pipeline for extracting VIIRS Nighttime Lights metrics, historical trends, and enriched statistical features from large coordinate datasets.
+NTLR is a production-grade, fault-tolerant, batch-based Google Earth Engine + Google Drive pipeline for extracting VIIRS Nighttime Lights metrics, historical trends, and enriched statistical features from large coordinate datasets.
 
 It is designed for:
 

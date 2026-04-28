@@ -1,9 +1,9 @@
 @echo off
-title NTLR V5 Pipeline Full Setup
+title NTLR Pipeline Full Setup
 setlocal
 
 echo ==========================================
-echo        NTLR V5 FULL ENV SETUP
+echo        NTLR FULL ENV SETUP
 echo ==========================================
 echo.
 
