@@ -1,0 +1,12 @@
+pandas
+earthengine-api
+pydrive2
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
+pyOpenSSL
+requests
+tqdm
+numpy
+scipy
